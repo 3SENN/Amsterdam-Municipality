@@ -1,0 +1,128 @@
+[
+  {
+    "_id": "1",
+    "name": "Senne",
+    "points":  99,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "2",
+    "name": "Ayoub",
+    "points":  1,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "3",
+    "name": "Harry",
+    "points":  2,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "4",
+    "name": "Arunn",
+    "points":  3,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "5",
+    "name": "Ryan",
+    "points":  4,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "6",
+    "name": "jordy",
+    "points":  21200,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "7",
+    "name": "Harry",
+    "points":  2333,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "8",
+    "name": "Arunn",
+    "points":  6,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "9",
+    "name": "Harry",
+    "points":  442,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "10",
+    "name": "Arunn",
+    "points":  123,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "11",
+    "name": "Arunn",
+    "points":  21200,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "12",
+    "name": "Harry",
+    "points":  21200,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "13",
+    "name": "Arunn",
+    "points":  21200,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "14",
+    "name": "Arunn",
+    "points":  21200,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "15",
+    "name": "Arunn",
+    "points":  21200,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "16",
+    "name": "Harry",
+    "points":  21200,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "17",
+    "name": "Arunn",
+    "points":  21200,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "18",
+    "name": "Ryan",
+    "points":  21200,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "19",
+    "name": "jordy",
+    "points":  21200,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "20",
+    "name": "Harry",
+    "points":  21200,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  },
+  {
+    "_id": "21",
+    "name": "Arunn",
+    "points":  21200,
+    "img": "../../assets/img/stockphotoPerson.jpeg"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "1",
+    "level": 1,
+    "name": "counting exercise",
+    "info":  "The counting exercise consists of taking a\nroute of your own choosing and counting forms of diversity on that route (number of people\nwith walking sticks, walkers, wheelchairs, touch sticks, mobility scooters, assistance dogs ...).",
+    "isPlayable": true
+  },
+  {
+    "_id": "2",
+    "level": 2,
+    "name": "The Quiz",
+    "info":  "In the quiz, questions are asked related to mental and physical diversity, building on the\ncounting exercise (example question: how many people are in a wheelchair in the\nNetherlands? About 1 in 110 people, who you don't see on the street)",
+    "isPlayable": true
+  },
+  {
+    "_id": "3",
+    "level": 3,
+    "name": "Safari",
+    "info":  "In the safari, the environment is experienced with a blindfold, in a wheelchair, an old-age\nsimulation suit or other ways.",
+    "isPlayable": false
+  },
+  {
+    "_id": "4",
+    "level": 4,
+    "name": "Game element linked to digital platform for help on the go",
+    "info":  "For level 4 and 5 it is still too early. Because a digital platform for help on the road is still\nunder development, in which in the future people on that platform will be randomly linked\non that platform on the way through the city in public transport and public space, linking\nsupply and demand of help on the way. For example, if a traveler meets a blind fellow\ntraveler to guide him/her through the station, a game element can also be linked to this\nencounter",
+    "isPlayable": false
+  },
+  {
+    "_id": "5",
+    "level": 5,
+    "name": "Feedback after help",
+    "info":  "For level 4 and 5 it is still too early. Because a digital platform for help on the road is still\nunder development, in which in the future people on that platform will be randomly linked\non that platform on the way through the city in public transport and public space, linking\nsupply and demand of help on the way. For example, if a traveler meets a blind fellow\ntraveler to guide him/her through the station, a game element can also be linked to this\nencounter",
+    "isPlayable": false
+  },
+  {
+    "_id": "6",
+    "level": 6,
+    "name": "Final Boss!!",
+    "info": "Level 6 is the most exciting thing. In the previous levels, players earn credits. This creates a\nranking of players. Every so often, the highest scoring players are allowed to visit a final boss\n(a member of the city council or the GMT, municipal management team, with the mayor as\nthe ultimate boss). In level 6, the player, together with an experienced expert met in the\ngame, can try to convince the final boss of a change for inclusion. In this way, user\nexperience can end up at the municipal top in a playful way, who can then make more\ninclusive choices.",
+    "isPlayable": true
+  }
+]

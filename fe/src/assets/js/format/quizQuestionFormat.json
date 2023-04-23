@@ -1,0 +1,29 @@
+{
+  "id": 0,
+  "question": "",
+  "info": "",
+  "points": 0,
+  "hasMultipleAnswers": false,
+  "answers": [
+    {
+      "quizQuestion": "",
+      "option": "",
+      "isAnswer": false
+    },
+    {
+      "quizQuestion": "",
+      "option": "",
+      "isAnswer": false
+    },
+    {
+      "quizQuestion": "",
+      "option": "",
+      "isAnswer": false
+    },
+    {
+      "quizQuestion": "",
+      "option": "",
+      "isAnswer": false
+    }
+  ]
+}

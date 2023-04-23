@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "casus": 1,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Hoeveel mensen ken je zelf die gebruik maken van WMO vervoer?"
+      },
+      {
+        "id": 2,
+        "question": "Wat zou jij doen als je hem was?"
+      },
+      {
+        "id": 3,
+        "question": "Hoe zou je je voelen?"
+      },
+      {
+        "id": 4,
+        "question": "Wat voor invloed zou het op je leven hebben als je zo lang onderweg bent?"
+      },
+      {
+        "id": 5,
+        "question": "Zal je het gevoel hebben dat je er volwaardig bij hoort?"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "casus": 2,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Ken je mensen in jou omgeving die blind of slechtziend zijn?"
+      },
+      {
+        "id": 2,
+        "question": "Wat zou jij doen als je de vrouw was?"
+      },
+      {
+        "id": 3,
+        "question": "Wat voor invloed zou het hebben op jouw leven als je slechtziend was?"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "casus": 3,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Wat zou jij doen als je deze vrouw was?"
+      },
+      {
+        "id": 2,
+        "question": "Wat voor invloed zou het hebben op jouw leven als je slecht ter been bent?"
+      },
+      {
+        "id": 3,
+        "question": "Kom je vaak mensen tegen in het OV die slecht ter been zijn?"
+      }
+    ]
+  }
+]

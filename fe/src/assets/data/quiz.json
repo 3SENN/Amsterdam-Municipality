@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "question": "Hoeveel inwoners hebben een WMO pas?",
+    "info": null,
+    "points": 500,
+    "answers": [
+      {
+        "id": 1,
+        "option": "15.000",
+        "isAnswer": false
+      },
+      {
+        "id": 2,
+        "option": "33.000",
+        "isAnswer": false
+      },
+      {
+        "id": 3,
+        "option": "40.000",
+        "isAnswer": true
+      },
+      {
+        "id": 4,
+        "option": "61.000",
+        "isAnswer": false
+      }
+    ],
+    "answered": 2,
+    "hasMultipleCorrectAnswers": false
+  },
+  {
+    "id": 2,
+    "question": "Hoeveel inwoners in Amsterdam maken gebruik van de tilservice?",
+    "info": null,
+    "points": 500,
+    "answers": [
+      {
+        "option": "20",
+        "isAnswer": false
+      },
+      {
+        "option": "75",
+        "isAnswer": false
+      },
+      {
+        "option": "135",
+        "isAnswer": true
+      },
+      {
+        "option": "175",
+        "isAnswer": false
+      }
+    ],
+    "answered": 3,
+    "hasMultipleCorrectAnswers": false
+  },
+  {
+    "id": 3,
+    "question": "Hoeveel leerlingen gaan er naar een VSO in Nederland?",
+    "info": null,
+    "points": 500,
+    "answers": [
+      {
+        "option": "24.140",
+        "isAnswer": false
+      },
+      {
+        "option": "37.750",
+        "isAnswer": true
+      },
+      {
+        "option": "42.430",
+        "isAnswer": false
+      },
+      {
+        "option": "51.235",
+        "isAnswer": false
+      }
+    ],
+    "answered": 2,
+    "hasMultipleCorrectAnswers": false
+  },
+  {
+    "id": 4,
+    "question": "Hoeveel bewoners van Gem. A'dam zitten er +/- op permanente basis in een rolstoel?",
+    "info": null,
+    "points": 500,
+    "answers": [
+      {
+        "option": "500",
+        "isAnswer": false
+      },
+      {
+        "option": "2.500",
+        "isAnswer": false
+      },
+      {
+        "option": "8.000",
+        "isAnswer": true
+      },
+      {
+        "option": "17.250",
+        "isAnswer": false
+      }
+    ],
+    "answered": 2,
+    "hasMultipleCorrectAnswers": false
+  },
+  {
+    "id": 5,
+    "question": "De slechtziende vrouw dreigt tegen een onhandig neergezette koffer van een reiziger aan te lopen. Wat doe je?",
+    "info": "Een jonge vrouw staat op een gecombineerde bus-/tramhalte. Ze is onderweg van haar huis in Amstelveen naar haar werk in het centrum van Amsterdam. Omdat ze een oogafwijking heeft opgelopen door diabetes is haar zicht beperkt en loopt ze met een geleide stok. Obstakels onderweg kan ze maar deels ontlopen. ",
+    "points": 1000,
+    "answers": [
+      {
+        "option": "Niets, Die vrouw heeft eens stok die redt zich wel",
+        "isAnswer": false
+      },
+      {
+        "option": "Je vraagt aan de vrouw met de stok of ze hulp nodig heeft?",
+        "isAnswer": true
+      },
+      {
+        "option": "Je vraagt aan de andere passagier om de koffer te verplaatsen?",
+        "isAnswer": true
+      },
+      {
+        "option": "Je sprint tussen de vrouw en de koffer",
+        "isAnswer": false
+      }
+    ],
+    "answered": 2,
+    "hasMultipleCorrectAnswers": true
+  },
+  {
+    "id": 6,
+    "question": "De vrouw hoort een bus aankomen en weet niet of dit de juiste is. Je ziet haar vertwijfeling. Wat doe je?",
+    "info": "Een jonge vrouw staat op een gecombineerde bus-/tramhalte. Ze is onderweg van haar huis in Amstelveen naar haar werk in het centrum van Amsterdam. Omdat ze een oogafwijking heeft opgelopen door diabetes is haar zicht beperkt en loopt ze met een geleide stok. Obstakels onderweg kan ze maar deels ontlopen. ",
+    "points": 500,
+    "answers": [
+      {
+        "option": "Niets. De buschauffeur ziet haar  staan met die stok, die zal wel roepen",
+        "isAnswer": false
+      },
+      {
+        "option": "Niets. Aangezien ze met een stok reist heeft ze dat vast vaker gedaan",
+        "isAnswer": false
+      },
+      {
+        "option": "Je vraagt haar op welke bus ze wacht",
+        "isAnswer": true
+      },
+      {
+        "option": "Nog niets. Ik wacht af, in een uiterst geval schiet ik te hulp.",
+        "isAnswer": false
+      }
+    ],
+    "answered": 2,
+    "hasMultipleCorrectAnswers": false
+  },
+  {
+    "id": 7,
+    "question": "De vrouw komt bij een stoplicht waar de tikker stuk is. Wat doe jij?",
+    "info": "Een jonge vrouw staat op een gecombineerde bus-/tramhalte. Ze is onderweg van haar huis in Amstelveen naar haar werk in het centrum van Amsterdam. Omdat ze een oogafwijking heeft opgelopen door diabetes is haar zicht beperkt en loopt ze met een geleide stok. Obstakels onderweg kan ze maar deels ontlopen. ",
+    "points": 1000,
+    "answers": [
+      {
+        "option": "Niets. Die vrouw komt toch vaker bij stoplichten zonder tikker",
+        "isAnswer": false
+      },
+      {
+        "option": "Je maakt thuis een melding (MORA) van het defecte stoplicht",
+        "isAnswer": true
+      },
+      {
+        "option": "Je vraagt of de vrouw hulp nodig heeft",
+        "isAnswer": true
+      },
+      {
+        "option": "Niets. Jij wil zelf helemaal niet oversteken.",
+        "isAnswer": false
+      }
+    ],
+    "answered": 2,
+    "hasMultipleCorrectAnswers": true
+  }
+]
